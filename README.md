@@ -1,6 +1,6 @@
 #Fork of PavelDoGreat/WebGL-Fluid-Simulation
-//
-//
+/
+/
 ---
 # WebGL Fluid Simulation
 
